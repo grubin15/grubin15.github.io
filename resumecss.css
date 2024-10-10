@@ -1,0 +1,19 @@
+header
+{background-color: #c39bd3;
+  font-family: "copperplate", serif; color: #4a235a; font-size: 2.5em;
+}
+aside {
+  width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: right;
+}
+section {width:85%; color:#4a235a }
+
+footer
+{background-color: #c39bd3;
+  font-family: "copperplate", serif;
+  font-size: 1em;
+}
